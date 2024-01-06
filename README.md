@@ -5,7 +5,7 @@ Studying LLM from the angle of RAG as start point.
 ## References: 
 
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
-- [Pinecone's tutorial on VDB](https://www.pinecone.io/learn/vector-database/)
+- [Pinecone blog explains VDB](https://www.pinecone.io/learn/vector-database/)
 - [LangChain's list of vector databases](https://python.langchain.com/docs/integrations/vectorstores)
 - [LlamaIndex's tutorial on building a retriever](https://docs.llamaindex.ai/en/stable/examples/low_level/retrieval.html) (llama_idx_sample.ipynb copied this)
 - [CMU-DB seminar in 23 Fall](https://db.cs.cmu.edu/seminar2023/) has a lot of VDBs
