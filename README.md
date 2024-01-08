@@ -2,7 +2,11 @@
 
 Studying LLM from the angle of RAG as start point.
 
-## References: 
+## Roadmap
+
+[Advanced RAG Techniques: an Illustrated Overview](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6) is a great article that explained _many_ techniques in a RAG pipeline. My next step is building my own pipeline, trying various techniques introduced in the article and using benchmarks to see how they perform.
+
+## References
 
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
 - [Pinecone blog explains VDB](https://www.pinecone.io/learn/vector-database/)
