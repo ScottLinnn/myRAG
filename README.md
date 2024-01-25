@@ -30,3 +30,4 @@ At this moment, I prefer using CPU and exploring optmizations for embedding to m
 - [CMU-DB seminar in 23 Fall](https://db.cs.cmu.edu/seminar2023/) has a lot of VDBs
 - [Advanced RAG Techniques: an Illustrated Overview](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
 - [Comparison between fine-tuning and RAG](https://www.superannotate.com/blog/llm-fine-tuning)
+- [A Survey of Embedding Models (and why you should look beyond OpenAI)](https://blog.getzep.com/text-embedding-latency-a-semi-scientific-look/)
